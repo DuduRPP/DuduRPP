@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuduRPP&show_icons=true&theme=tokyonight" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduRPP&theme=tokyonight&layout=compact" />
-</div>
+<a href="https://github.com/DuduRPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuduRPP&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/DuduRPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduRPP&theme=tokyonight" />
+</a>
