@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/DuduRPP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduRPP&theme=tokyonight" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuduRPP&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
